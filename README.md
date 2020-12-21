@@ -10,10 +10,10 @@ Processing reference library: https://processing.org/reference/ \
 Processing examples library: https://processing.org/examples/ \
 jeremydouglass' post (source code): https://forum.processing.org/two/discussion/22122/how-to-check-whether-mouse-pointer-is-currently-on-the-line-drawn-inside-canvas-or-not \
 Distance equation (source code): https://stackoverflow.com/questions/13343444/how-to-find-distance-to-detect-mouseover-on-scaled-shapes-in-processing \
-Processing cheat sheet: https://www.cs.bham.ac.uk/~cxp291/ri/processing_cheat_sheet_english.pdf \n
+Processing cheat sheet: https://www.cs.bham.ac.uk/~cxp291/ri/processing_cheat_sheet_english.pdf \
 
 Some other useful links I consulted just to gain more knowledge of processing: 
-https://stackoverflow.com/questions/63981932/processing-how-do-you-give-a-shape-a-value-based-on-the-mouse-button-clicked
-https://stackoverflow.com/questions/27897955/group-shapes-so-i-can-cycle-through-them-with-mouse-clicks-processing-and-java
-https://stackoverflow.com/questions/9253661/processing-mouseover-on-objects/9254492
-https://www.bowdoin.edu/~sharmon/courses/3725/fall20/res/processing-quickstart-pjs/
+https://stackoverflow.com/questions/63981932/processing-how-do-you-give-a-shape-a-value-based-on-the-mouse-button-clicked \
+https://stackoverflow.com/questions/27897955/group-shapes-so-i-can-cycle-through-them-with-mouse-clicks-processing-and-java \
+https://stackoverflow.com/questions/9253661/processing-mouseover-on-objects/9254492 \
+https://www.bowdoin.edu/~sharmon/courses/3725/fall20/res/processing-quickstart-pjs/ \
