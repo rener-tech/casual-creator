@@ -16,3 +16,4 @@ Some other useful links I consulted just to gain more knowledge of processing:
 https://stackoverflow.com/questions/63981932/processing-how-do-you-give-a-shape-a-value-based-on-the-mouse-button-clicked
 https://stackoverflow.com/questions/27897955/group-shapes-so-i-can-cycle-through-them-with-mouse-clicks-processing-and-java
 https://stackoverflow.com/questions/9253661/processing-mouseover-on-objects/9254492
+https://www.bowdoin.edu/~sharmon/courses/3725/fall20/res/processing-quickstart-pjs/
