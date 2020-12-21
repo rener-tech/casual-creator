@@ -5,5 +5,6 @@
 (3) how do you help them make something they are proud to share.
 ### Personal Connection
 ### Challenge to Self
+- perserverence--had vision and was determined to get there.
 ### Bugs? 
 ### Sources: 
