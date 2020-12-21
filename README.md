@@ -1,4 +1,4 @@
-# TURNING TILES ## by Irene Lunt
+# TURNING TILES by Irene Lunt
 ### Brainstorming Overview 
 My users are casually creating a mosaic table. I keep them engaged and excited by having the tile colors randomize, so there is a hit of unpredictability, but not too much. Since creation happens just with the stroke of the mouse and is continuous, there is a sense of flow for users. Users maintain some control since they can continue changing each individual tile's color if they'd like it to be a different color, and they can continue adapting their mosaic for as long as they want. 
 ### Personal Connection
